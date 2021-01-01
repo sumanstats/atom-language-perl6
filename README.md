@@ -1,7 +1,7 @@
 [script-package]: https://atom.io/packages/script
 [mit]:          http://opensource.org/licenses/MIT
 [author]:       http://github.com/Raku
-[releases]:     https://github.com/perl6/atom-language-perl6/releases
+[releases]:     https://github.com/Raku/atom-language-perl6/releases
 [mit-badge]:    https://img.shields.io/apm/l/language-perl6.svg
 [apm-pkg-link]: https://atom.io/packages/language-perl6
 [apm-ver-link]: https://img.shields.io/apm/v/language-perl6.svg
