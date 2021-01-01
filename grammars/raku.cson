@@ -1268,7 +1268,7 @@
         'end': '(?<!\\\\)\\)'
         'captures':
           '0':
-            'name': 'punctuation.definition.regexp.named.signature.perlfe'
+            'name': 'punctuation.definition.regexp.named.signature.raku'
         'name': 'meta.regexp.named.signature.raku'
         'patterns': [
           { 'include': '$self' }
@@ -2375,7 +2375,7 @@
         'begin': '\\$(?=\\<)'
         'beginCaptures':
           '0':
-            'name': 'variable.other.identifier.sigil.regexp.perl6'
+            'name': 'variable.other.identifier.sigil.regexp.raku'
         'end': '(?![\\w\\<\\>])'
         'name': 'meta.match.variable.raku'
         'patterns': [
@@ -2383,7 +2383,7 @@
             'match': '(\\<)([\\w\\-]+)(\\>)'
             'captures':
               '1': 'name': 'support.class.match.name.delimiter.regexp.raku'
-              '2': 'name': 'variable.other.identifier.regexp.perl6'
+              '2': 'name': 'variable.other.identifier.regexp.raku'
               '3': 'name': 'support.class.match.name.delimiter.regexp.raku'
           }
         ]

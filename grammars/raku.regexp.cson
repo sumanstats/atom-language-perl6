@@ -41,17 +41,17 @@
       }
       {
         'match': '(?<!\\\\)\\$\\d'
-        'name': 'keyword.other.special-method.match.variable.numbered.perlt6e'
+        'name': 'keyword.other.special-method.match.variable.numbered.raku'
       }
       {
         'match': '(\\$)(\\<)(\\w+)(\\>)\\s*(=)'
         'captures':
           '1':
-            'name': 'variable.other.identifier.sigil.regexp.perl6'
+            'name': 'variable.other.identifier.sigil.regexp.raku'
           '2':
             'name': 'support.class.match.name.delimiter.regexp.raku'
           '3':
-            'name': 'variable.other.identifier.regexp.perl6'
+            'name': 'variable.other.identifier.regexp.raku'
           '4':
             'name': 'support.class.match.name.delimiter.regexp.raku'
           '5':
